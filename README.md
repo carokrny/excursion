@@ -7,7 +7,7 @@
 * [Inspiration](#inspiration)
 
 ## General information
-This project is simple web project to create a landing page for a fake mobile application. The fake applicaiton, excursion, helps users record and share their experiences. Accordingly, the launch page is visually engaging and sleek. 
+This is a simple web project to create a landing page for a fake mobile application. The fake applicaiton, excursion, helps users record and share their experiences. Accordingly, the launch page is visually engaging and sleek. 
 	
 ## Technologies
 Project is created with:
